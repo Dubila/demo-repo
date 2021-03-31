@@ -1,0 +1,47 @@
+.run{
+    text-align: center;
+}
+.mar{
+    text-align: center;
+}
+.dub{
+    text-align: center;
+}
+.zoo{
+    text-align: center;
+}
+
+.roo{
+    text-align: center;
+}
+.dog{
+    text-align: center;
+}
+.passed{
+    text-align: center;
+    color:blue ;
+}
+.you{
+    text-align: center;
+}
+.mee{
+    text-align: center;
+}
+.iss{
+    text-align:center;
+    color: blue;
+}
+.the{
+    text-align: center;
+}
+.are{
+    text-align: center;
+}
+.class{
+    text-align: center;
+    color: red;
+}
+.tabel, tr td{
+    border: 2px solid gray;
+    border-collapse:collapse ;
+}
